@@ -1,6 +1,4 @@
-![Adjust Your Set](https://s3-eu-west-1.amazonaws.com/ays-dev-test/ays-logo.png)
-
-# Developer Assessment
+# Adjust Your Set Developer Assessment
 
 This test is designed to assess your JavaScript skills and your approach a design problem.
 
