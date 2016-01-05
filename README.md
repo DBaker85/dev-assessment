@@ -1,5 +1,4 @@
-![Adjust Your Set
-](https://s3-eu-west-1.amazonaws.com/ays-dev-test/ays-logo.png)
+![Adjust Your Set](https://s3-eu-west-1.amazonaws.com/ays-dev-test/ays-logo.png)
 
 # Developer Assessment
 
